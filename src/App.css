@@ -17,6 +17,11 @@ p {
 
 a {
   text-decoration: none;
+  color: var(--color-body);
+}
+
+a:hover {
+  color: var(--color-primary);
 }
 
 /* Color Palette */
@@ -79,4 +84,12 @@ a {
   margin-right: 0.2rem;
   position: relative;
   top: -1.2px;
+}
+
+/* Carousel */
+
+.carousel {
+  height: 70vh;
+  object-fit: cover;
+  object-position: center;
 }

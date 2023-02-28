@@ -1,9 +1,11 @@
 import React from 'react';
+import NavBar from '../components/NavBar';
 
 function Mission(props) {
     return (
         <div>
-           Mission Page 
+          <NavBar />
+           Mission Page
         </div>
     );
 }

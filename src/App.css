@@ -11,6 +11,72 @@ html {
   scroll-behavior: smooth;
 }
 
+p {
+  font-size: 1.2rem;
+}
+
 a {
   text-decoration: none;
+}
+
+/* Color Palette */
+:root {
+  --color-primary: #fed983;
+  --color-dark-bkgrnd: #434849;
+  --color-light-bkgrnd: #262534;
+  --color-body: #dedede;
+  --color-body-dark: #28272a;
+  --border-radius: 30px;
+}
+
+/* NavBar */ 
+
+.navbar {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
+  background-color: var(--color-dark-bkgrnd);
+  padding: 20px 0 20px 0;
+  text-transform: uppercase;
+}
+
+.navbar-brand {
+  margin-left: 3rem;
+  font-size: 2rem;
+}
+
+.navbar-nav {
+  margin-right: 3rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar-nav {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-around !important;
+    width: 100%;
+  }
+}
+
+.nav-item {
+  margin-inline: 1rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.nav-item:nth-of-type(3) {
+  background-color: var(--color-primary);
+  border-radius: var(--border-radius);
+  padding: 2px 4px 2px 4px;
+}
+
+.nav-item:nth-of-type(3) > .nav-link {
+  color: var(--color-body-dark);
+  font-weight: 500;
+}
+
+.logo-icon {
+  margin-right: 0.2rem;
+  position: relative;
+  top: -1.2px;
 }

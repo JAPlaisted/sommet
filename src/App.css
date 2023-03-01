@@ -31,7 +31,7 @@ a:hover {
   --color-light-bkgrnd: #262534;
   --color-body: #dedede;
   --color-body-dark: #28272a;
-  --border-radius: 30px;
+  --border-radius: 10px;
 }
 
 /* NavBar */ 
@@ -72,7 +72,7 @@ a:hover {
 .nav-item:nth-of-type(3) {
   background-color: var(--color-primary);
   border-radius: var(--border-radius);
-  padding: 2px 4px 2px 4px;
+  padding: 0 5px 0 5px;
 }
 
 .nav-item:nth-of-type(3) > .nav-link {
@@ -110,4 +110,39 @@ a:hover {
   text-align: left;
   line-height: 2.5rem;
   font-size: 1.5rem;
+}
+
+/* Products */
+
+.products {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 2.5%;
+}
+
+.product {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  height: 100%;
+  color: var(--color-body-dark);
+}
+
+.product-details {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1rem;
+}
+
+.product-details > p > a {
+  color: var(--color-body-dark);
+}
+
+.product-download {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  color: var(--color-body-dark);
 }

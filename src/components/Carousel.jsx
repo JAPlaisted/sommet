@@ -11,7 +11,7 @@ function CarouselComponent(props) {
     },
     {
       image: "https://cdn.midjourney.com/f25b781e-6a2c-4ac6-9466-f3887d439f12/grid_0.png",
-      title: 'How to Create a \'Text Me\' Module in Python with Twilio',
+      title: 'Create a \'Text Me\' Module in Python with Twilio',
       description: 'This article explains how to create a \'Text Me\' module in Python using the Twilio API, enabling the user to receive notifications and updates by sending a message to their phone number when a task is complete.',
       buttonLink: '/blog'
     },

@@ -14,10 +14,10 @@ function Products(props) {
             <div className="product-download">
                 <h4>Available For: </h4>
                 <p>&bull; Chrome</p>
-                <button type="button" class="btn btn-primary">Download</button>
+                <button type="button" class="btn">Download</button>
             </div>
         </div>
     );
 }
 
-export default Products;
+export default Products; 

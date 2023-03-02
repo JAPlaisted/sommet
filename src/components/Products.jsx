@@ -14,7 +14,7 @@ function Products(props) {
             <div className="product-download">
                 <h4>Available For: </h4>
                 <p>&bull; Chrome</p>
-                <button type="button" className="btn">Download</button>
+                <button type="button" className="btn" disabled>Download</button>
             </div>
         </div>
     );

@@ -4,7 +4,6 @@ import { getBlogs } from "../components/services/tempBlogService"
 
 function Blog(props) {
     const blogs = getBlogs();
-    console.log(blogs.length)
 
     return (
         <div>

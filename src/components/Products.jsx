@@ -8,7 +8,7 @@ function Products(props) {
                 <ExtensionIcon style={{fontSize: '4rem'}} />
                 <div className="product-details">
                     <h3>Bionic Font Plugin</h3>
-                    <p><a href="/blog">Learn More</a></p>
+                    <p><a href="/blog/5b21ca3eeb7f6fbccd471815">Learn More</a></p>
                 </div>
             </div>
             <div className="product-download">

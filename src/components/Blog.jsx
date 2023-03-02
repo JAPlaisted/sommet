@@ -19,8 +19,8 @@ function Blog() {
         <div className="container-fluid bg-light mt-2">
           <div className="row justify-content-center">
             <div className="col-md-8">
-              <img src={blog.image} className="img-fluid mb-4" alt="Blog" />
-              <h1 className="display-4 mb-4">{blog.title}</h1>
+              <h1 className="display-2 mb-4">{blog.title}</h1>
+              <img src={blog.image} className="img-fluid mb-4" alt="Blog" style={{height: '300px', width: '100vw', objectFit: 'cover', objectPosition:'center'}} />
               <div>{contentWithLineBreaks}</div>
             </div>
           </div>

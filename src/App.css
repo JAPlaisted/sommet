@@ -99,7 +99,7 @@ a:hover {
 /* Carousel */
 
 .carousel {
-  height: 70vh;
+  height: 80vh;
   object-fit: cover;
   object-position: center;
 }
@@ -137,6 +137,7 @@ a:hover {
   flex-direction: row;
   justify-content: space-evenly;
   margin-top: 2.5%;
+  height: 40vh;
 }
 
 .product {
@@ -161,7 +162,6 @@ a:hover {
 .product-download {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
   color: var(--color-body-dark);
 }
 

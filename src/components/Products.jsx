@@ -3,11 +3,12 @@ import ExtensionIcon from '@mui/icons-material/Extension';
 
 function Products(props) {
     return (
-        <div className='products col-md-8 mx-auto'>
+        <div className='products col-md-8 mx-auto' id="products">
             <div className="product">
                 <ExtensionIcon style={{fontSize: '4rem'}} />
                 <div className="product-details">
-                    <h3>Bionic Font Plugin</h3>
+                    <h3><b>Bio</b>nic <b>Fon</b>t <b>Plu</b>gin</h3>
+                    <p><b>Th</b>is <b>plu</b>gin <b>is</b> <b>pen</b>ding <b>rev</b>iew <b>via</b> <b>the</b> <b>chr</b>ome <b>web</b>store</p>
                     <p><a href="/blog/5b21ca3eeb7f6fbccd471815">Learn More</a></p>
                 </div>
             </div>

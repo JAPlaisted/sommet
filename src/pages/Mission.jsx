@@ -1,5 +1,6 @@
 import React from 'react';
 import NavBar from '../components/NavBar';
+import Footer from '../components/Footer';
 
 function Mission(props) {
     return (
@@ -17,6 +18,7 @@ function Mission(props) {
                 At Sommet Technologies, we are committed to making a positive impact on the world through technology. We believe that by providing entrepreneurs with the tools they need to succeed, we can help create a more prosperous and sustainable future for everyone. Our ultimate goal is to be a leading provider of innovative solutions for entrepreneurs and businesses, helping them to achieve their goals and reach their full potential.
                 </p>
             </div>
+            <Footer />
         </div>
     );
 }

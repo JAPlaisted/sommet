@@ -189,3 +189,14 @@ a:hover {
     margin-left: 17%;
   }  
 }
+
+/* Footer */ 
+
+.footer {
+  margin-top: 6rem;
+}
+
+.top-link {
+  font-size: 2rem;
+  color: var(--color-dark-bkgrnd);
+}

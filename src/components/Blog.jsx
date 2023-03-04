@@ -1,6 +1,7 @@
 import { useParams } from "react-router-dom";
 import { getBlog } from "../components/services/tempBlogService";
 import NavBar from "./NavBar";
+import Footer from "./Footer";
 
 function Blog() {
   const { id } = useParams();
@@ -25,6 +26,7 @@ function Blog() {
             </div>
           </div>
         </div>
+        <Footer />
     </div>
   );
 }

@@ -12,6 +12,12 @@ Start the development server using npm start.
 
 ## Usage
 
+View the live site here:
+
+https://fastidious-sundae-5a2784.netlify.app/
+
+OR
+
 To use Sommet Technologies, follow these steps:
 
 Open your web browser and navigate to http://localhost:3000.

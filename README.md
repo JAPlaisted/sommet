@@ -21,8 +21,6 @@ OR
 To use Sommet Technologies, follow these steps:
 
 Open your web browser and navigate to http://localhost:3000.
-Create a new account or log in to an existing account.
-Add your daily tasks and goals, and track your progress.
 
 ## Contributing
 

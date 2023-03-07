@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Sommet Technologies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sommet Technologies is a web application that provides users with free tools and content to automate their businesses.
 
-## Available Scripts
+## Installation
 
-In the project directory, you can run:
+To install Sommet Technologies, follow these steps:
 
-### `npm start`
+Clone the repository to your local machine.
+Install the required dependencies using npm install.
+Start the development server using npm start.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+View the live site here:
 
-### `npm test`
+https://fastidious-sundae-5a2784.netlify.app/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+OR
 
-### `npm run build`
+To use Sommet Technologies, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Open your web browser and navigate to http://localhost:3000.
+Create a new account or log in to an existing account.
+Add your daily tasks and goals, and track your progress.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you'd like to contribute to Sommet Technologies, please follow these guidelines:
 
-### `npm run eject`
+Fork the repository and create a new branch for your changes.
+Make your changes and test them thoroughly.
+Submit a pull request to the main repository and describe your changes in detail.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Screen Shots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Capture](https://user-images.githubusercontent.com/55415399/222937365-c12a2bfd-b516-41e0-8508-7ae6f390bd4e.JPG)
+![Capture](https://user-images.githubusercontent.com/55415399/222937389-e7b1abe3-358d-420d-925e-2b5c142bd5c1.JPG)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Credits
+Sommet Technologies was created by Jonathan Plaisted.
